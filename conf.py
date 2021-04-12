@@ -1,0 +1,1 @@
+print("----------- Configuration file for main -----------")
